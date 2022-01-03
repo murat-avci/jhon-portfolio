@@ -1,0 +1,5 @@
+#source/sass/vendor
+#source/scss/vendor
+#source/scss/vendor.scss
+#source/scss/vendor/normalize.scss
+#source/scss/vendor/swiper.scss
